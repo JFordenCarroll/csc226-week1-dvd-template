@@ -52,3 +52,43 @@ A complete assignment will include:
 
 Each required function in the starter code includes a comment with more specific instructions. Read these comments carefully as you implement your solution.
 
+
+## Submitting Your Assignment with GitHub
+
+To submit your assignment, you will use Git and GitHub. Here are the basic steps:
+
+### 1. Cloning the Repository
+
+If you have not already, you need to clone the assignment repository to your computer. Open a terminal and run:
+
+```bash
+git clone <repository-url>
+```
+
+Replace `<repository-url>` with the URL of your GitHub repository (for example, `https://github.com/YourUsername/assignment-repo.git`).
+
+### 2. Making Changes and Committing
+
+As you work on your assignment, save your changes. To commit your work:
+
+```bash
+git add .
+git commit -m "Describe your changes here"
+```
+
+You can repeat these steps as often as you like while working.
+
+### 3. Pushing Your Work to GitHub
+
+When you are ready to submit, push your commits to GitHub:
+
+```bash
+git push
+```
+
+### 4. Final Submission
+
+Make sure all your code is pushed to your GitHub repository before the deadline. I will grade the code that is present in your repository at the due date.
+
+If you have questions, feel free to email me: jforden@carrollu.edu
+
