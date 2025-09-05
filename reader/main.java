@@ -79,5 +79,17 @@ class Main {
         System.out.println(db.getLength());
         //db.getHighestRatedVideos(10);
         db.getRatingDistribution();
+        
+        // TODO: Test your implemented methods here by uncommenting the lines below
+        // db.getAverageRatingByGenre();
+        // db.getMoviesByDecade();
+        // db.getAverageRuntimeByGenre();
+        // db.getMostPopularGenres(10);
+        // db.getVoteCountDistribution();
+        // db.compareAdultVsNonAdult();
+        // db.getTitleTypeDistribution();
+        // db.getMoviesWithMissingData();
+        // db.getTopVotedMovies(10);
+        // db.getRuntimeDistribution();
     }
 }
